@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5V/mLao+tciT/dHiwvCPyGH6cLSwVveW3Jcqkz8YbJbWQVq3wiLc9WlKd5o2sW57nrhPh7a4XwF00NEsPLbAmQ==",
+  "dgSpecHash": "/kR7tCzwT5Gbpoi3EDYf9X8vaJ0AIxx9a0gU0XsxbC0CWv6AcftC1t/ZNMT6elbu0296lAM+DS9YWc0xd9qnZw==",
   "success": true,
   "projectFilePath": "D:\\Devops\\AssessmentPractice\\Employee_Management_System\\Employee_Management_System_TestProject\\Employee_Management_System_TestProject.csproj",
   "expectedPackageFiles": [
@@ -12,6 +12,7 @@
     "C:\\Users\\arun.srinivasan\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\arun.srinivasan\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.6.0\\microsoft.testplatform.objectmodel.17.6.0.nupkg.sha512",
     "C:\\Users\\arun.srinivasan\\.nuget\\packages\\microsoft.testplatform.testhost\\17.6.0\\microsoft.testplatform.testhost.17.6.0.nupkg.sha512",
+    "C:\\Users\\arun.srinivasan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\arun.srinivasan\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
     "C:\\Users\\arun.srinivasan\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\arun.srinivasan\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
